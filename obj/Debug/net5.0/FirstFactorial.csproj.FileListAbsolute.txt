@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/FirstFactorial.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/FirstFactorial.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/FirstFactorial.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/FirstFactorial.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/ref/FirstFactorial.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/bin/Debug/net5.0/FirstFactorial.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/ref/FirstFactorial.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstFactorial/obj/Debug/net5.0/FirstFactorial.genruntimeconfig.cache
